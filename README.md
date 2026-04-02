@@ -3,6 +3,13 @@
 ## 📊 Project Overview
 This project analyzes Zomato restaurant data to uncover key insights about restaurant distribution, customer preferences, and market trends. The analysis was performed using SQL, and an interactive dashboard was built using Power BI.
 
+## 🧠 Business Problem
+Zomato operates across multiple countries with thousands of restaurants. 
+The goal of this project is to analyze restaurant data to understand:
+- Where most restaurants are located
+- What drives customer preferences
+- How pricing and ratings impact restaurant performance
+
 ---
 
 ## 🎯 Objectives
@@ -23,6 +30,15 @@ This project analyzes Zomato restaurant data to uncover key insights about resta
 - Interactive filters for dynamic exploration  
 
 ---
+
+## 🗄️ SQL Analysis Highlights
+- Used JOIN to combine restaurant and country data  
+- Performed aggregation using GROUP BY  
+- Created price buckets using CASE statements  
+- Analyzed trends using date functions (YEAR, MONTH, QUARTER)
+
+---
+
 
 ## 💡 Key Insights
 - New Delhi has the highest number of restaurants  
