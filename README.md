@@ -58,6 +58,3 @@ The goal of this project is to analyze restaurant data to understand:
 Feel free to connect with me on LinkedIn:  
 https://www.linkedin.com/in/harshad-bisht-647284169/
 
----
-
-⭐ If you found this project interesting, consider giving it a star!
